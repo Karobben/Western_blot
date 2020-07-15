@@ -1,0 +1,1 @@
+/media/ken/Data/Github/hexo/source/Blog/Python_WBA.md
